@@ -1,2 +1,2 @@
-# TIS_designthinking
-Group project Design Thinking
+# TIS_POSTER(Industrial talk)
+
